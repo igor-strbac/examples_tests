@@ -37,9 +37,4 @@ class calculatorTestSystem {
         assertEquals(5.0, result, 0.0001); // Adding a delta for comparing doubles
     }
 
-//    @Test(expected = IllegalArgumentException.class)
-//    public void testCalculator_DivisionByZero() {
-//        Calculator calculator = new Calculator();
-//        calculator.divide(10, 0);
-//    }
 }

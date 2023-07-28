@@ -34,10 +34,6 @@ class calculatorTestUnit {
         assertEquals(5.0, result, 0.0001);
     }
 
-//    @Test(expected = IllegalArgumentException.class)
-//    public void testDivisionByZero() {
-//        calculator calc = new calculator();
-//        calc.divide(10, 0);
-//    }
+
 
 }
