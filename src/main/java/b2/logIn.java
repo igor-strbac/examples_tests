@@ -13,8 +13,6 @@ public class logIn {
     }
 
     public boolean login() {
-        // Simulate the login process
-        // In a real application, this would involve checking against a database of users
         if ("handsomeguy".equals(username) && "qwerty123".equals(password)) {
             isLoggedIn = true;
             return true;
