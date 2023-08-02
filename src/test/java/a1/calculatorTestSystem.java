@@ -36,5 +36,4 @@ class calculatorTestSystem {
         double result = calc.divide(15, 3);
         assertEquals(5.0, result, 0.0001); // Adding a delta for comparing doubles
     }
-
 }
